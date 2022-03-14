@@ -1,6 +1,4 @@
 
-package huffman;
-
 /**
  * This class contains a character object, and a double representing
  * its probability of occurrence

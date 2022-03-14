@@ -1,4 +1,3 @@
-package searchengine;
 
 /******************************************************************************
  *  Compilation:  javac StdOut.java

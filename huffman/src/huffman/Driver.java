@@ -1,6 +1,3 @@
-
-package huffman;
-
 import java.util.ArrayList;
 
 /**

@@ -1,4 +1,3 @@
-package huffman;
 
 /**
  * This class contains a generic queue class which supports 
