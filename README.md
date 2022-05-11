@@ -1,5 +1,7 @@
 # data-structures-cs112
-Data Structures (CS 1112) at Rutgers University
+Data Structures (CS 112) at Rutgers University
+
+Professor Centeno, Fall 2021
 
 Please follow both <a href="http://academicintegrity.rutgers.edu/">Rutgers University's Academic Integrity Policy</a> and the <a href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers Department of Computer Science's Academic Integrity Policy</a>
 
